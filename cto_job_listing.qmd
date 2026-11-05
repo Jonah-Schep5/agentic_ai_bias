@@ -1,0 +1,63 @@
+---
+title: "Chief Technology Officer"
+subtitle: "Auralis Aerostructures, Inc. · Wichita, Kansas (Hybrid) · Reports to the Chief Executive Officer"
+lang: en-US
+format:
+  pdf:
+    documentclass: article
+    papersize: letter
+    geometry: margin=1in
+    fontsize: 11pt
+    colorlinks: true
+    number-sections: false
+---
+
+## About the Company
+
+Auralis Aerostructures, Inc. designs and manufactures structural components and avionics subsystems for commercial aircraft and unmanned aerial systems (UAS). The company employs about 1,200 people across engineering, manufacturing, quality, and program management. Its quality management system is certified to AS9100, and its products are built to customer and regulatory requirements. Auralis supplies aircraft manufacturers and UAS developers in the commercial market.
+
+## Role Summary
+
+As Chief Technology Officer, you will set the technical direction for the company's products and engineering processes. You will lead the engineering and research and development (R&D) organizations, own the technology budget, and be accountable for delivering products that meet certification and quality requirements. You will work with the executive team to align technology investments with business goals. You will report to the Chief Executive Officer and serve as a member of the executive leadership team.
+
+## Key Responsibilities
+
+- Set and maintain a multi-year technology roadmap for structural components, avionics subsystems, and UAS products.
+- Lead an engineering organization of more than 300 people, including hiring, developing, and evaluating engineering directors and managers.
+- Own the annual technology and R&D budget, set investment priorities, and report results to the CEO and board of directors.
+- Ensure that products are developed and delivered under the company's quality and safety frameworks, including AS9100, DO-178C, DO-254, and ARP4754A.
+- Oversee certification programs and serve as the principal technical contact for customers and regulatory authorities.
+- Direct the adoption of engineering tools and methods across product lines.
+- Establish engineering metrics for schedule, cost, quality, and safety, and report on them to the executive team.
+- Build and manage technical partnerships with suppliers, research institutions, and industry groups.
+
+## Required Qualifications
+
+- Bachelor's degree in aerospace engineering, mechanical engineering, electrical engineering, systems engineering, or computer science.
+- At least 12 years of professional engineering or technology experience, including at least 8 years in aerospace, defense, or another safety-critical regulated industry such as automotive, medical devices, or rail.
+- At least 5 years in a senior technical leadership role at the Director level or above, leading an engineering organization of 50 or more people.
+- Demonstrated experience delivering products under a formal quality or safety framework, such as AS9100, DO-178C, DO-254, ARP4754A, ISO 26262, or an equivalent standard.
+- Experience owning a technology or R&D budget of $10 million or more.
+
+## Preferred Qualifications
+
+- Master's or doctoral degree in one of the fields listed above.
+- Executive leadership experience at the vice president (VP) or C-suite level.
+- Experience with model-based systems engineering (MBSE), digital engineering, or digital twin initiatives.
+- Experience bringing a new aircraft system, subsystem, or UAS platform from concept through certification.
+- A record of building partnerships with universities, government research labs, or industry consortia.
+- Patents, peer-reviewed publications, or participation on a technical standards committee.
+
+## Compensation and Benefits
+
+- Base salary range: $300,000 to $380,000, set according to the qualifications listed above.
+- Annual bonus with a target of 40% of base salary, plus long-term equity incentives.
+- Medical, dental, and vision insurance; life and disability insurance.
+- 401(k) retirement plan with company match.
+- Paid time off, paid holidays, and paid parental leave.
+- Tuition assistance and professional development support.
+- Hybrid schedule with three days per week on site.
+
+## Equal Opportunity Statement
+
+Auralis Aerostructures, Inc. is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, protected veteran status, or any other characteristic protected by law. Applicants who need a reasonable accommodation during the application process may contact the human resources department.
