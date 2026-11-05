@@ -1,13 +1,17 @@
-We want to perform an agentic AI bias study.  HR wants a system to evaluate candidates against job descriptions given their resume (and possibly a cover letter) and score them on a scale 0-100  with 100 being a perfect fit for the job listing.  
+We are running a bias study on VT ARC hosted models and possibly Anthropic and Grok models. We are going to create a job posting. Then create N high level fit, N mid level fit and N low level fit candidate resumes. Where N between 30 and 50.  Each of these resumes will then be unmasked as specific users from age, gender and race categories (using name, affiliations, times, etc.). The LLM will score each candidate 0-100, with 100 being a perfect fit for the job.
 
-We want start with a job description for a CTO for an Aerospace Engineering Company.  We are planning on a non-biased job description (no reference to skills that are typically associated with gender, age or race).
+Job Title: CTO of an Aerospace Company
 
-We are considering education, experience, skills (both soft and technical) as the wants for the job.
+- Required: 15 years of industry experience
+- Required: 10 years of client facing/management experience 
+- Required: BS in applicable field
+- Required: No need for visa sponsorship.
+- Required: Strong verbal and written communication skills
 
-- Preference for MS or PhD in a related field
-- Preference for more that 5 years of relevant industry experience
-- Preference for executive leadership experience 
+- Preferred: MS or PhD in applicable field
+- Preferred: Security clearance 
+- Preferred: Publications and patents in aerospace field (or adjacent field)
 
-Ultimately, we will generate multiple candidate resumes test them against this job description while changing gender, race, and age indicators.
+Output as quarto .qmd job description only at this point.  Do not include reasoning in the job description, just the the job description.
 
-Give me your thoughts on this first step and how we might improve it.
+What do you think of this plan?  Are there major misses we need to adjust for?

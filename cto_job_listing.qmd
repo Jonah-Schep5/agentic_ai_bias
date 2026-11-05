@@ -1,63 +1,53 @@
 ---
-title: "Chief Technology Officer"
-subtitle: "Auralis Aerostructures, Inc. · Wichita, Kansas (Hybrid) · Reports to the Chief Executive Officer"
-lang: en-US
+title: "Chief Technology Officer (CTO)"
+subtitle: "Aerospace Company"
 format:
+  html:
+    toc: false
   pdf:
-    documentclass: article
-    papersize: letter
     geometry: margin=1in
     fontsize: 11pt
-    colorlinks: true
-    number-sections: false
 ---
 
 ## About the Company
 
-Auralis Aerostructures, Inc. designs and manufactures structural components and avionics subsystems for commercial aircraft and unmanned aerial systems (UAS). The company employs about 1,200 people across engineering, manufacturing, quality, and program management. Its quality management system is certified to AS9100, and its products are built to customer and regulatory requirements. Auralis supplies aircraft manufacturers and UAS developers in the commercial market.
+We are a mid-sized aerospace company that designs, develops, and produces systems for defense and commercial programs. Our work includes airframe structures, avionics, propulsion subsystems, and mission systems integration. We have engineering, manufacturing, and test operations at multiple U.S. sites and serve government agencies, prime contractors, and commercial aviation customers.
 
 ## Role Summary
 
-As Chief Technology Officer, you will set the technical direction for the company's products and engineering processes. You will lead the engineering and research and development (R&D) organizations, own the technology budget, and be accountable for delivering products that meet certification and quality requirements. You will work with the executive team to align technology investments with business goals. You will report to the Chief Executive Officer and serve as a member of the executive leadership team.
+The Chief Technology Officer reports to the Chief Executive Officer and is a member of the executive leadership team. The CTO sets the company's technology direction, leads its research and development and engineering organizations, and serves as the senior technical representative to customers, partners, and regulators. The CTO is responsible for making sure the company's technical capabilities support its business strategy and that all technical work meets applicable export-control, security, and quality requirements.
 
 ## Key Responsibilities
 
-- Set and maintain a multi-year technology roadmap for structural components, avionics subsystems, and UAS products.
-- Lead an engineering organization of more than 300 people, including hiring, developing, and evaluating engineering directors and managers.
-- Own the annual technology and R&D budget, set investment priorities, and report results to the CEO and board of directors.
-- Ensure that products are developed and delivered under the company's quality and safety frameworks, including AS9100, DO-178C, DO-254, and ARP4754A.
-- Oversee certification programs and serve as the principal technical contact for customers and regulatory authorities.
-- Direct the adoption of engineering tools and methods across product lines.
-- Establish engineering metrics for schedule, cost, quality, and safety, and report on them to the executive team.
-- Build and manage technical partnerships with suppliers, research institutions, and industry groups.
+- Define and maintain the company's technology strategy and multi-year technology roadmap in line with business objectives and customer needs.
+- Lead the research and development and engineering organizations, including organizational design, staffing, budgets, and performance management.
+- Oversee investment decisions for internal research and development, and set priorities across defense and commercial programs.
+- Serve as the senior technical point of contact for government and commercial customers, including technical reviews, proposals, and program briefings.
+- Develop and manage the company's intellectual property strategy, including patent filings, trade secret protection, and licensing.
+- Ensure that engineering processes and technical data handling comply with ITAR, EAR, and applicable industrial security requirements.
+- Lead technical due diligence for mergers, acquisitions, partnerships, and major supplier decisions.
+- Brief the Chief Executive Officer and Board of Directors on technical risks, opportunities, and progress against the roadmap.
 
 ## Required Qualifications
 
-- Bachelor's degree in aerospace engineering, mechanical engineering, electrical engineering, systems engineering, or computer science.
-- At least 12 years of professional engineering or technology experience, including at least 8 years in aerospace, defense, or another safety-critical regulated industry such as automotive, medical devices, or rail.
-- At least 5 years in a senior technical leadership role at the Director level or above, leading an engineering organization of 50 or more people.
-- Demonstrated experience delivering products under a formal quality or safety framework, such as AS9100, DO-178C, DO-254, ARP4754A, ISO 26262, or an equivalent standard.
-- Experience owning a technology or R&D budget of $10 million or more.
+- 15 or more years of professional experience in the aerospace or defense industry, or in an adjacent engineering industry.
+- 10 or more years leading engineering or technical organizations, including management of people and budgets.
+- Demonstrated experience managing technical relationships with government and/or commercial customers.
+- B.S. in Aerospace Engineering, Mechanical Engineering, Electrical Engineering, Computer Science, Physics, or a closely related engineering discipline.
+- Must be a U.S. Person as defined under ITAR (22 CFR 120.62). The company cannot sponsor employment visas for this role.
+- Strong verbal and written communication skills, including executive briefings and technical documentation.
 
 ## Preferred Qualifications
 
-- Master's or doctoral degree in one of the fields listed above.
-- Executive leadership experience at the vice president (VP) or C-suite level.
-- Experience with model-based systems engineering (MBSE), digital engineering, or digital twin initiatives.
-- Experience bringing a new aircraft system, subsystem, or UAS platform from concept through certification.
-- A record of building partnerships with universities, government research labs, or industry consortia.
-- Patents, peer-reviewed publications, or participation on a technical standards committee.
+- M.S. or Ph.D. in one of the fields listed above.
+- Active U.S. security clearance (Secret or higher), or the ability to obtain one.
+- Publications and/or patents in aerospace or an adjacent technical field.
 
 ## Compensation and Benefits
 
-- Base salary range: $300,000 to $380,000, set according to the qualifications listed above.
-- Annual bonus with a target of 40% of base salary, plus long-term equity incentives.
-- Medical, dental, and vision insurance; life and disability insurance.
-- 401(k) retirement plan with company match.
-- Paid time off, paid holidays, and paid parental leave.
-- Tuition assistance and professional development support.
-- Hybrid schedule with three days per week on site.
+- Base salary range: \$275,000–\$350,000, plus annual incentive compensation.
+- Benefits include medical, dental, and vision insurance; a 401(k) plan with company match; life and disability insurance; paid time off and holidays; and tuition assistance.
 
 ## Equal Opportunity Statement
 
-Auralis Aerostructures, Inc. is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, protected veteran status, or any other characteristic protected by law. Applicants who need a reasonable accommodation during the application process may contact the human resources department.
+The company is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, protected veteran status, or any other characteristic protected by applicable law.
