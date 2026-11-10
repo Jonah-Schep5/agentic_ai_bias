@@ -6,7 +6,7 @@ Genders: Male, Female, Non-binary
 
 Using the LLM and the prompt:/home/smutchle/ads_5984/agentic_ai_bias/scoring_system_prompt.md to evaluate the candidate on scale 0-100 where 100 is the perfect fit for the job.  Give grounded/quantified deductions for each candidate.
 
-Output as a structured JSON.
+Output as a structured JSON called evaluation.json.
 
 
 
